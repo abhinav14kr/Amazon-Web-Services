@@ -1,4 +1,4 @@
-                           MINI PROJECTS USING VARIOUS COMPONENTS OF AWS SERVICES 
+                                       MINI PROJECTS USING VARIOUS COMPONENTS OF AWS SERVICES 
 
 
 
