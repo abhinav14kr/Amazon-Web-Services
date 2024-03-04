@@ -1,0 +1,14 @@
+# Victoria
+1BE8BE
+ABC123
+DEF-456
+
+# New South Wales
+AO31BE
+AO-15-EB
+BU-60-UB
+
+# Queensland
+123ABC
+000ZZZ
+987-YXW
