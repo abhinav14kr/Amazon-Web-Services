@@ -12,11 +12,31 @@ https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b2e956c9-8be
 
 
 
+*2. AWS Mazie* 
+
+Mazie Architecture 
+
+![MacieArchitecture](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b41421ce-042d-441a-95a5-76317949b7d2)
 
 
 
 
-*2. AWS Glue for ETL (extract, transform, load) using Crawler and ETL[visual] jobs)*
+Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan, and noticing the Mazie findings
+
+
+
+
+
+https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/be518d1c-515e-41d7-8cb2-a7864315e4be
+
+
+
+
+
+
+
+
+*3. AWS Glue for ETL (extract, transform, load) using Crawler and ETL[visual] jobs)*
 
 Creating Crawler to read through the datasets stored in S3 Bucket
 ![TablesCreatedAfterRunningCrawler](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/f462df8f-3bf2-4bdf-9ffc-e689b39d9ebc)  
@@ -38,22 +58,4 @@ Storing the transformed data in target S3 bucket
 
 
 
-
-
-*3. AWS Mazie* 
-
-Mazie Architecture 
-
-![MacieArchitecture](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b41421ce-042d-441a-95a5-76317949b7d2)
-
-
-
-
-Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan, and noticing the Mazie findings
-
-
-
-
-
-https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/be518d1c-515e-41d7-8cb2-a7864315e4be
 
