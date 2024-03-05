@@ -49,13 +49,11 @@ Mazie Architecture
 
 
 
-Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan 
-
-![AWSMacieUploadBucket](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/a9ac4f16-8dce-4f51-badd-ab9c9939f6f3)
+Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan, and noticing the Mazie findings
 
 
 
 
-Macie Findings of S3 bucket 
 
-![MacieDetectingCustomIdentifier](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/c7263926-8dec-4cf7-b742-6c55b9be3eaa)
+https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/be518d1c-515e-41d7-8cb2-a7864315e4be
+
