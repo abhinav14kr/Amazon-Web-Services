@@ -59,6 +59,13 @@ Storing the transformed data in target S3 bucket
 ![CuratedTableOutput](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/22bdb3e4-8b75-48f0-ac87-048de6544064)
 
 
+                                                       *4. AWS Athena* 
+                                        
+
+https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/54afd5a9-6a33-4a85-9c91-55e860d346ec
+
+
+
 
 
 
