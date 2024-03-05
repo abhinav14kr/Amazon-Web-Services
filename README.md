@@ -12,7 +12,12 @@ https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b2e956c9-8be
 
 
 
+
+
+
                                                             *2. AWS Mazie* 
+
+                                                            
 
 Mazie Architecture 
 
@@ -36,7 +41,12 @@ https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/be518d1c-515
 
 
 
+
+
+
                             *3. AWS Glue for ETL (extract, transform, load) using Crawler and ETL[visual] jobs)*
+
+                            
 
 Creating Crawler to read through the datasets stored in S3 Bucket
 ![TablesCreatedAfterRunningCrawler](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/f462df8f-3bf2-4bdf-9ffc-e689b39d9ebc)  
