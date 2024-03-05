@@ -3,7 +3,7 @@
 
 
 
-                                  *1. Lambda Serverless Architecture Workflow with Email Configuration* 
+                        *1. Lambda Serverless Architecture Workflow with Email Configuration* 
 
 https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b2e956c9-8be7-48bd-9e65-96dc8345af4b
 
@@ -15,7 +15,7 @@ https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b2e956c9-8be
 
 
 
-                                                            *2. AWS Mazie* 
+                                             *2. AWS Mazie* 
 
                                                             
 
@@ -44,7 +44,7 @@ https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/be518d1c-515
 
 
 
-                            *3. AWS Glue for ETL (extract, transform, load) using Crawler and ETL[visual] jobs)*
+                  *3. AWS Glue for ETL (extract, transform, load) using Crawler and ETL[visual] jobs)*
 
                             
 
